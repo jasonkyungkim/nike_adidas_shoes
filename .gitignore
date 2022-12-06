@@ -130,3 +130,9 @@ dmypy.json
 
 # macOS
 **/.DS_Store
+
+# conda-env
+**/conda-env/
+
+# vscode
+.vscode/
