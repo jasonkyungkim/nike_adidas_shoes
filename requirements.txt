@@ -1,6 +1,8 @@
 numpy
 pandas
 scikit-learn
+selenium
+shap
 matplotlib
 seaborn
 prettytable
