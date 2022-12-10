@@ -8,5 +8,6 @@ seaborn
 prettytable
 nltk
 xgboost
+pprint
 eli5
 lightgbm
